@@ -21,14 +21,7 @@ sites:
     url: https://dhammayut.org
   - name: Thainess
     url: https://thainess.net
-  - name: Gateway (3bb)
-    check: "tcp-ping"
-    url: ${{ secrets.IP_3BB }}
-    port: 53
-  - name: Gateway (True Leased-line VIP)
-    check: "tcp-ping"
-    url: ${{ secrets.IP_TRUE_VIP }}
-    port: 53
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
