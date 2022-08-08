@@ -27,7 +27,7 @@ sites:
     port: 53
   - name: Gateway (True Leased-line VIP)
     check: "tcp-ping"
-    url: IP_TRUE_VIP
+    url: $IP_TRUE_VIP
     port: 53
 
 status-website:
