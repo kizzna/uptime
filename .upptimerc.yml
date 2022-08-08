@@ -21,16 +21,24 @@ sites:
     url: https://dhammayut.org
   - name: Thainess
     url: https://thainess.net
+  - name: Gateway (3bb)
+    check: "tcp-ping"
+    url: $IP_3BB
+    port: 53
+  - name: Gateway (True Leased-line VIP)
+    check: "tcp-ping"
+    url: IP_TRUE_VIP
+    port: 53
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: kizzna.github.io
-  baseUrl: https://github.com/kizzna/uptime/
+  baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Uptime
+  introTitle: "**Uptime Monitor**"
+  introMessage: Uptime Monitor
   navbar:
     - title: Status
       href: /
