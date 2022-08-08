@@ -37,11 +37,9 @@ status-website:
   navbar:
     - title: Status Page
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 
 i18n:
-  footer: This page is [created]($REPO) @2022-08-08 (wbu.world), powered by [Upptime](https://upptime.js.org)
+  footer: Powered by [Upptime](https://upptime.js.org)
