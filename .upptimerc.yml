@@ -34,9 +34,9 @@ status-website:
   # introMessage: The monitoring **real-time** data from our [GitHub repository](https://github.com/kizzna/uptime).
   theme: ocean
   # Available themes are light, dark, night or ocean.
-  navbar:
-    - title: Status Page
-      href: /
+#  navbar:
+#    - title: Status Page
+#      href: /
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
