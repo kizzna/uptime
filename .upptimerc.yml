@@ -3,6 +3,12 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
+  - name: Gongtham.net
+    url: http://gongtham.net
+  - name: Dhammastudy.org
+    url: https://dhammastudy.org
+  - name: Dhammastudy.net
+    url: https://dhammastudy.net
   - name: Sangharaja
     url: https://sangharaja.org
   - name: WBU
@@ -11,6 +17,10 @@ sites:
     url: https://mahasamana.org
   - name: Watbovorn
     url: https://watbovorn.org
+  - name: Dhammayut
+    url: https://dhammayut.org
+  - name: Thainess
+    url: https://thainess.net
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
