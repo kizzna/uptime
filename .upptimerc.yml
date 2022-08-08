@@ -23,11 +23,11 @@ sites:
     url: https://thainess.net
   - name: Gateway (3bb)
     check: "tcp-ping"
-    url: $IP_3BB
+    url: ${{ secrets.IP_3BB }}
     port: 53
   - name: Gateway (True Leased-line VIP)
     check: "tcp-ping"
-    url: $IP_TRUE_VIP
+    url: ${{ secrets.IP_TRUE_VIP }}
     port: 53
 
 status-website:
