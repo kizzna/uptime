@@ -14,11 +14,11 @@ sites:
   - name: Dhammastudy.net
     url: https://dhammastudy.net
   - name: Exam1
-    url: https://exam1.gongtham.net
+    url: https://exam1.gongtham.net/__test.php
   - name: Exam2
-    url: https://exam2.gongtham.net
+    url: https://exam2.gongtham.net/__test.php
   - name: Exam3
-    url: https://exam3.gongtham.net
+    url: https://exam3.gongtham.net/__test.php
   - name: Onab
     url: https://onab.gongtham.net
   - name: Sangharaja
