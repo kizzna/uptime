@@ -13,6 +13,14 @@ sites:
     url: https://dhammastudy.org
   - name: Dhammastudy.net
     url: https://dhammastudy.net
+  - name: Exam1
+    url: https://exam1.gongtham.net
+  - name: Exam2
+    url: https://exam2.gongtham.net
+  - name: Exam3
+    url: https://exam3.gongtham.net
+  - name: Onab
+    url: https://onab.gongtham.net
   - name: Sangharaja
     url: https://sangharaja.org
   - name: WBU
