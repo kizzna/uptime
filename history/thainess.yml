@@ -1,7 +1,7 @@
 url: https://thainess.net
-status: up
-code: 200
-responseTime: 1863
-lastUpdated: 2023-01-22T23:04:12.549Z
+status: down
+code: 503
+responseTime: 1366
+lastUpdated: 2023-01-23T11:42:16.303Z
 startTime: Mon Aug 08 2022 03:49:05 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
