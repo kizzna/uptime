@@ -11,7 +11,7 @@ sites:
     url: https://check-true.gongtham.net/index.php
 
   - name: Gongtham.net
-    url: http://gongtham.net
+    url: https://gongtham.net
   - name: Dhammastudy.org
     url: https://dhammastudy.org
   - name: Dhammastudy.net
