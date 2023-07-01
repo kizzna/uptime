@@ -286,11 +286,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/wbu.world.ico",
     "slug": "wbu",
     "status": "up",
-    "uptime": "99.00%",
+    "uptime": "99.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.00%",
+    "uptimeYear": "99.01%",
     "time": 2081,
     "timeDay": 1481,
     "timeWeek": 1491,
@@ -392,14 +392,14 @@
     "url": "https://thainess.net",
     "icon": "https://icons.duckduckgo.com/ip3/thainess.net.ico",
     "slug": "thainess",
-    "status": "up",
+    "status": "down",
     "uptime": "99.17%",
-    "uptimeDay": "58.83%",
-    "uptimeWeek": "60.96%",
-    "uptimeMonth": "91.02%",
+    "uptimeDay": "59.55%",
+    "uptimeWeek": "61.17%",
+    "uptimeMonth": "91.06%",
     "uptimeYear": "99.17%",
     "time": 1233,
-    "timeDay": 286,
+    "timeDay": 292,
     "timeWeek": 311,
     "timeMonth": 376,
     "timeYear": 1233,
@@ -409,7 +409,7 @@
       "2023-06-29": 781,
       "2023-06-28": 786,
       "2023-06-27": 682,
-      "2023-06-26": 346
+      "2023-06-26": 325
     }
   }
 ]
