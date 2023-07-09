@@ -394,22 +394,22 @@
     "slug": "thainess",
     "status": "up",
     "uptime": "99.22%",
-    "uptimeDay": "52.41%",
-    "uptimeWeek": "62.89%",
-    "uptimeMonth": "91.46%",
+    "uptimeDay": "54.35%",
+    "uptimeWeek": "62.80%",
+    "uptimeMonth": "91.44%",
     "uptimeYear": "99.22%",
     "time": 998,
-    "timeDay": 173,
+    "timeDay": 176,
     "timeWeek": 284,
     "timeMonth": 321,
     "timeYear": 998,
     "dailyMinutesDown": {
-      "2023-07-08": 682,
+      "2023-07-08": 673,
       "2023-07-07": 605,
       "2023-07-06": 764,
       "2023-07-05": 769,
       "2023-07-04": 590,
-      "2023-07-03": 329
+      "2023-07-03": 347
     }
   }
 ]
