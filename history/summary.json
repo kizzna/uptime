@@ -287,7 +287,7 @@
     "slug": "wbu",
     "status": "up",
     "uptime": "98.89%",
-    "uptimeDay": "88.05%",
+    "uptimeDay": "89.92%",
     "uptimeWeek": "92.88%",
     "uptimeMonth": "98.36%",
     "uptimeYear": "98.89%",
@@ -393,15 +393,15 @@
     "url": "https://thainess.net",
     "icon": "https://icons.duckduckgo.com/ip3/thainess.net.ico",
     "slug": "thainess",
-    "status": "up",
-    "uptime": "99.18%",
-    "uptimeDay": "47.39%",
-    "uptimeWeek": "60.53%",
-    "uptimeMonth": "90.92%",
-    "uptimeYear": "99.18%",
+    "status": "down",
+    "uptime": "99.19%",
+    "uptimeDay": "47.36%",
+    "uptimeWeek": "60.70%",
+    "uptimeMonth": "90.96%",
+    "uptimeYear": "99.19%",
     "time": 925,
-    "timeDay": 268,
-    "timeWeek": 301,
+    "timeDay": 253,
+    "timeWeek": 303,
     "timeMonth": 316,
     "timeYear": 925,
     "dailyMinutesDown": {
@@ -410,7 +410,7 @@
       "2023-07-10": 907,
       "2023-07-09": 790,
       "2023-07-08": 673,
-      "2023-07-07": 436
+      "2023-07-07": 418
     }
   }
 ]
