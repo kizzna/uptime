@@ -88,11 +88,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/dhammastudy.org.ico",
     "slug": "dhammastudy-org",
     "status": "up",
-    "uptime": "99.38%",
+    "uptime": "99.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.38%",
+    "uptimeYear": "99.39%",
     "time": 1170,
     "timeDay": 1128,
     "timeWeek": 1157,
@@ -393,15 +393,15 @@
     "url": "https://thainess.net",
     "icon": "https://icons.duckduckgo.com/ip3/thainess.net.ico",
     "slug": "thainess",
-    "status": "up",
-    "uptime": "99.18%",
-    "uptimeDay": "51.97%",
-    "uptimeWeek": "60.13%",
-    "uptimeMonth": "90.82%",
-    "uptimeYear": "99.18%",
+    "status": "down",
+    "uptime": "99.20%",
+    "uptimeDay": "52.89%",
+    "uptimeWeek": "61.07%",
+    "uptimeMonth": "91.04%",
+    "uptimeYear": "99.20%",
     "time": 868,
-    "timeDay": 724,
-    "timeWeek": 351,
+    "timeDay": 750,
+    "timeWeek": 352,
     "timeMonth": 321,
     "timeYear": 868,
     "dailyMinutesDown": {
@@ -410,7 +410,7 @@
       "2023-07-14": 699,
       "2023-07-13": 871,
       "2023-07-12": 618,
-      "2023-07-11": 720
+      "2023-07-11": 624
     }
   }
 ]
