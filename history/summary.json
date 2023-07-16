@@ -229,9 +229,9 @@
     "url": "https://onab.gongtham.net",
     "icon": "https://icons.duckduckgo.com/ip3/onab.gongtham.net.ico",
     "slug": "onab",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.60%",
@@ -241,6 +241,7 @@
     "timeMonth": 987,
     "timeYear": 913,
     "dailyMinutesDown": {
+      "2023-07-16": 0,
       "2023-05-03": 166,
       "2023-04-18": 20,
       "2023-02-24": 211,
@@ -368,11 +369,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/dhammayut.org.ico",
     "slug": "dhammayut",
     "status": "up",
-    "uptime": "99.44%",
+    "uptime": "99.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.44%",
+    "uptimeYear": "99.45%",
     "time": 1878,
     "timeDay": 1328,
     "timeWeek": 1264,
@@ -395,9 +396,9 @@
     "slug": "thainess",
     "status": "up",
     "uptime": "99.19%",
-    "uptimeDay": "51.79%",
-    "uptimeWeek": "60.55%",
-    "uptimeMonth": "90.92%",
+    "uptimeDay": "52.40%",
+    "uptimeWeek": "60.46%",
+    "uptimeMonth": "90.90%",
     "uptimeYear": "99.19%",
     "time": 872,
     "timeDay": 716,
@@ -405,13 +406,13 @@
     "timeMonth": 322,
     "timeYear": 872,
     "dailyMinutesDown": {
-      "2023-07-16": 242,
+      "2023-07-16": 233,
       "2023-07-15": 742,
       "2023-07-14": 699,
       "2023-07-13": 871,
       "2023-07-12": 618,
       "2023-07-11": 746,
-      "2023-07-10": 61
+      "2023-07-10": 78
     }
   }
 ]
