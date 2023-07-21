@@ -286,14 +286,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/wbu.world.ico",
     "slug": "wbu",
     "status": "up",
-    "uptime": "98.91%",
+    "uptime": "98.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "98.32%",
-    "uptimeYear": "98.91%",
+    "uptimeYear": "98.92%",
     "time": 2076,
     "timeDay": 2103,
-    "timeWeek": 2223,
+    "timeWeek": 2233,
     "timeMonth": 1898,
     "timeYear": 2076,
     "dailyMinutesDown": {
@@ -394,15 +394,15 @@
     "url": "https://thainess.net",
     "icon": "https://icons.duckduckgo.com/ip3/thainess.net.ico",
     "slug": "thainess",
-    "status": "up",
-    "uptime": "99.17%",
-    "uptimeDay": "54.18%",
-    "uptimeWeek": "58.86%",
-    "uptimeMonth": "90.53%",
-    "uptimeYear": "99.17%",
+    "status": "down",
+    "uptime": "99.18%",
+    "uptimeDay": "57.31%",
+    "uptimeWeek": "59.03%",
+    "uptimeMonth": "90.57%",
+    "uptimeYear": "99.18%",
     "time": 792,
     "timeDay": 249,
-    "timeWeek": 333,
+    "timeWeek": 336,
     "timeMonth": 308,
     "timeYear": 792,
     "dailyMinutesDown": {
@@ -412,7 +412,7 @@
       "2023-07-18": 523,
       "2023-07-17": 650,
       "2023-07-16": 593,
-      "2023-07-15": 216
+      "2023-07-15": 198
     }
   }
 ]
