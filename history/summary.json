@@ -395,25 +395,25 @@
     "url": "https://thainess.net",
     "icon": "https://icons.duckduckgo.com/ip3/thainess.net.ico",
     "slug": "thainess",
-    "status": "up",
+    "status": "down",
     "uptime": "99.29%",
-    "uptimeDay": "43.78%",
-    "uptimeWeek": "63.97%",
-    "uptimeMonth": "91.71%",
+    "uptimeDay": "44.02%",
+    "uptimeWeek": "64.14%",
+    "uptimeMonth": "91.75%",
     "uptimeYear": "99.29%",
     "time": 706,
     "timeDay": 205,
     "timeWeek": 215,
-    "timeMonth": 285,
+    "timeMonth": 286,
     "timeYear": 706,
     "dailyMinutesDown": {
-      "2023-07-29": 250,
+      "2023-07-29": 251,
       "2023-07-28": 818,
       "2023-07-27": 659,
       "2023-07-26": 614,
       "2023-07-25": 636,
       "2023-07-24": 588,
-      "2023-07-23": 70
+      "2023-07-23": 53
     }
   }
 ]
