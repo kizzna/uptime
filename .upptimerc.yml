@@ -26,16 +26,12 @@ sites:
     url: https://onab.gongtham.net
   - name: Sangharaja
     url: https://sangharaja.org
-  - name: WBU
-    url: https://wbu.world
   - name: Mahasamana
     url: https://mahasamana.org
   - name: Watbovorn
     url: https://watbovorn.org
   - name: Dhammayut
     url: https://dhammayut.org
-  - name: Thainess
-    url: https://thainess.net
 
 
 status-website:
