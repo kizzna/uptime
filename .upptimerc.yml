@@ -9,7 +9,6 @@ sites:
     url: https://check-3bb.gongtham.net/index.php
   - name: Gateway (True)
     url: https://check-true.gongtham.net/index.php
-
   - name: Gongtham.net
     url: https://gongtham.net
   - name: Dhammastudy.org
