@@ -1,7 +1,7 @@
 url: $WWW_CHECK_LEASED_LINE
-status: up
-code: 200
-responseTime: 1032
-lastUpdated: 2023-08-09T17:43:27.102Z
+status: down
+code: 502
+responseTime: 1036
+lastUpdated: 2023-08-09T17:56:10.762Z
 startTime: Tue Aug 09 2022 09:54:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
