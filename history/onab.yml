@@ -1,7 +1,7 @@
 url: https://onab.gongtham.net
-status: up
-code: 200
-responseTime: 820
-lastUpdated: 2023-08-10T05:07:44.026Z
+status: down
+code: 502
+responseTime: 1151
+lastUpdated: 2023-08-10T06:32:15.701Z
 startTime: Tue Aug 09 2022 05:37:27 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
