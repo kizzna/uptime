@@ -1,7 +1,7 @@
 url: https://dhammastudy.org
-status: up
-code: 200
-responseTime: 902
-lastUpdated: 2023-09-20T23:03:41.933Z
+status: down
+code: 502
+responseTime: 227
+lastUpdated: 2023-09-21T21:09:19.459Z
 startTime: 2022-08-08T03:48:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
