@@ -1,7 +1,7 @@
 url: https://mahasamana.org
-status: up
-code: 200
-responseTime: 1276
-lastUpdated: 2023-09-20T23:03:50.297Z
+status: down
+code: 502
+responseTime: 222
+lastUpdated: 2023-09-21T21:09:29.074Z
 startTime: 2022-08-08T03:26:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
