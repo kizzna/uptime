@@ -135,7 +135,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/exam1.gongtham.net.ico",
     "slug": "exam1",
     "status": "up",
-    "uptime": "96.36%",
+    "uptime": "96.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -306,18 +306,20 @@
     "url": "https://dhammayut.org",
     "icon": "https://icons.duckduckgo.com/ip3/dhammayut.org.ico",
     "slug": "dhammayut",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1479,
-    "timeDay": 1198,
-    "timeWeek": 1072,
-    "timeMonth": 1079,
-    "timeYear": 1260,
-    "dailyMinutesDown": {}
+    "time": 1478,
+    "timeDay": 1006,
+    "timeWeek": 1040,
+    "timeMonth": 1070,
+    "timeYear": 1259,
+    "dailyMinutesDown": {
+      "2024-03-12": 1
+    }
   },
   {
     "name": "WBU",
