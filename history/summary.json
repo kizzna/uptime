@@ -305,18 +305,20 @@
     "url": "https://dhammayut.org",
     "icon": "https://icons.duckduckgo.com/ip3/dhammayut.org.ico",
     "slug": "dhammayut",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1444,
-    "timeDay": 1215,
-    "timeWeek": 1446,
-    "timeMonth": 1189,
-    "timeYear": 1225,
-    "dailyMinutesDown": {}
+    "time": 1442,
+    "timeDay": 1125,
+    "timeWeek": 1405,
+    "timeMonth": 1185,
+    "timeYear": 1224,
+    "dailyMinutesDown": {
+      "2024-04-01": 0
+    }
   },
   {
     "name": "WBU",
