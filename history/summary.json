@@ -133,7 +133,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/exam1.gongtham.net.ico",
     "slug": "exam1",
     "status": "up",
-    "uptime": "96.55%",
+    "uptime": "96.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -283,19 +283,19 @@
     "url": "https://watbovorn.org",
     "icon": "https://icons.duckduckgo.com/ip3/watbovorn.org.ico",
     "slug": "watbovorn",
-    "status": "down",
+    "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
-    "time": 1119,
-    "timeDay": 1244,
-    "timeWeek": 1020,
-    "timeMonth": 884,
+    "uptimeDay": "97.37%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.99%",
+    "time": 1117,
+    "timeDay": 1183,
+    "timeWeek": 1018,
+    "timeMonth": 887,
     "timeYear": 979,
     "dailyMinutesDown": {
-      "2024-04-13": 8
+      "2024-04-13": 38
     }
   },
   {
