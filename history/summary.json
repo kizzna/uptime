@@ -283,19 +283,19 @@
     "url": "https://watbovorn.org",
     "icon": "https://icons.duckduckgo.com/ip3/watbovorn.org.ico",
     "slug": "watbovorn",
-    "status": "down",
-    "uptime": "99.62%",
-    "uptimeDay": "97.32%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.91%",
+    "status": "up",
+    "uptime": "99.61%",
+    "uptimeDay": "94.59%",
+    "uptimeWeek": "99.23%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "99.99%",
-    "time": 1138,
-    "timeDay": 3541,
-    "timeWeek": 2105,
-    "timeMonth": 1205,
+    "time": 1137,
+    "timeDay": 3143,
+    "timeWeek": 2025,
+    "timeMonth": 1204,
     "timeYear": 1012,
     "dailyMinutesDown": {
-      "2024-04-13": 39
+      "2024-04-13": 78
     }
   },
   {
