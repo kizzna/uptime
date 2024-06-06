@@ -27,19 +27,19 @@
     "url": "https://check-3bb.gongtham.net/index.php",
     "icon": "https://icons.duckduckgo.com/ip3/check-3bb.gongtham.net.ico",
     "slug": "gateway-3bb",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 916,
-    "timeDay": 837,
-    "timeWeek": 830,
-    "timeMonth": 846,
-    "timeYear": 871,
+    "time": 915,
+    "timeDay": 750,
+    "timeWeek": 809,
+    "timeMonth": 840,
+    "timeYear": 870,
     "dailyMinutesDown": {
-      "2024-06-06": 1
+      "2024-06-06": 7
     }
   },
   {
