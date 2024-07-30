@@ -31,8 +31,9 @@ sites:
     url: https://watbovorn.org
   - name: Dhammayut
     url: https://dhammayut.org
-  - name: WBU
-    url: https://wbu.world
+
+#  - name: WBU
+#    url: https://wbu.world
 
 
 status-website:
