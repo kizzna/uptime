@@ -185,18 +185,20 @@
     "url": "https://exam3.gongtham.net/__test.php",
     "icon": "https://icons.duckduckgo.com/ip3/exam3.gongtham.net.ico",
     "slug": "exam3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 830,
-    "timeDay": 879,
-    "timeWeek": 789,
-    "timeMonth": 838,
-    "timeYear": 831,
-    "dailyMinutesDown": {}
+    "time": 844,
+    "timeDay": 4544,
+    "timeWeek": 1716,
+    "timeMonth": 1069,
+    "timeYear": 851,
+    "dailyMinutesDown": {
+      "2025-04-15": 0
+    }
   },
   {
     "name": "Onab",
@@ -303,7 +305,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dhammayut.org.ico",
     "slug": "dhammayut",
     "status": "up",
-    "uptime": "96.73%",
+    "uptime": "96.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
