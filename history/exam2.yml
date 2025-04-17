@@ -1,7 +1,7 @@
 url: https://exam2.gongtham.net/__test.php
-status: up
-code: 200
-responseTime: 719
-lastUpdated: 2025-04-16T23:04:22.505Z
+status: down
+code: 503
+responseTime: 912
+lastUpdated: 2025-04-17T07:45:59.000Z
 startTime: 2022-08-09T05:37:24.000Z
 generator: Upptime <https://github.com/upptime/upptime>
