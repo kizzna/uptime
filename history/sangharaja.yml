@@ -1,7 +1,7 @@
 url: https://sangharaja.org
-status: up
-code: 200
-responseTime: 901
-lastUpdated: 2025-06-20T23:04:45.703Z
+status: down
+code: 502
+responseTime: 3851
+lastUpdated: 2025-06-21T08:31:33.765Z
 startTime: 2022-08-08T03:26:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
